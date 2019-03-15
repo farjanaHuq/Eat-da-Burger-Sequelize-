@@ -1,1 +1,1 @@
-# Eat-da-Burger-Sequelize-
+# Eat-da-Burger-Sequelize
